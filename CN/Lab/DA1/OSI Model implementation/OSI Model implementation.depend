@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622610230 source:c:\users\dell\desktop\cn\lab\da1\osi model implementation\main.cpp
+	<iostream>
+	<cstring>
+	<ctype.h>
+	<stdlib.h>
+

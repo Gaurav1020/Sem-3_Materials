@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1617558908 source:c:\users\dell\desktop\cn\lab\da3\gbn\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+
